@@ -12,5 +12,5 @@ environment:
 
 dependencies:
   collection: ^1.14.0
-  json_annotation: ">= 3.0.0 <4.0.0"
+  json_annotation: 4.0.0
   meta: ^1.1.0
